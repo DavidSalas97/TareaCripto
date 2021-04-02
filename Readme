@@ -1,0 +1,23 @@
+Para el uso de estos códigos es necesario al instalación de Python, Selenium y PyAutoGui
+
+Para instalar Python
+1.- Se entra a la consola cmd, ya sea por el buscador de window o presionando la tecla (Window + R) y escribir cmd
+2.- En la consola cmd se escribe "pip install python"
+3.- Luego se espera a que se instale completamente y tenemos nuestro lenguaje de Python
+
+Para instalar Selenium
+1.- Se entra a la consola cmd, ya sea por el buscador de window o presionando la tecla (Window + R) y escribir cmd
+2.- En la consola cmd se escribe "pip install selenium"
+3.- Luego se espera a que se instale completamente y tenemos nuestro lenguaje de Python
+4.- Luego este requiere de los drivers del tipo de buscador que tengas ya sea Chrome, Internet Explorer, Mozila Firefox, etc. Más dudas a esta página https://selenium-python.readthedocs.io/index.html
+
+Para instalar Python
+1.- Se entra a la consola cmd, ya sea por el buscador de window o presionando la tecla (Window + R) y escribir cmd
+2.- En la consola cmd se escribe "pip install pyautogui"
+3.- Luego se espera a que se instale completamente y tenemos nuestro lenguaje de Python
+4.- Luego solo se importa la esta libreria para ser uso de ellos.
+Para mas información de pyautogui en este enlace https://pyautogui.readthedocs.io/en/latest/index.html
+
+Luego de haber instalado todo se pueden usar diferentes aplicaciones para ver el código de estos, en mi caso use sublime text 3.
+Para hacer correr estos códigos puede hacer desde la misma aplicación o por la consola cmd. Se busca la dirección de estos archivos con códigos y se ejecuta con la siguiente sentencia "py nombredearchivo.py"
+y listo ya se puede dar uso de estos códigos.
